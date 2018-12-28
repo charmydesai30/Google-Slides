@@ -1,0 +1,73 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @CharmyDesai306 Sign out
+0
+0 482 prathamesh-tambe/example-app
+forked from amuthanarulraj/example-app
+ Code  Pull requests 0  Projects 0  Wiki  Insights
+example-app/.gitignore
+9662847  on Feb 14, 2017
+@vespertilian vespertilian Added tests for the effects and the books reducer (#106)
+@MikeRyanDev @vespertilian @brandonroberts
+     
+42 lines (34 sloc)  496 Bytes
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/dist
+/tmp
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+
+# IDE - VSCode
+.vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage/*
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+#System Files
+.DS_Store
+Thumbs.db
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
